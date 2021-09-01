@@ -1,0 +1,54 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\15920\Desktop\ZERO\Hard\externboard\externboard\extern.PcbDoc
+Date     : 2021/7/14
+Time     : 18:31:19
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=20mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-1(708.661mil,476.378mil) on Bottom Layer And Pad st1-2(708.661mil,503.937mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-10(708.661mil,724.409mil) on Bottom Layer And Pad st1-11(708.661mil,751.968mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-10(708.661mil,724.409mil) on Bottom Layer And Pad st1-9(708.661mil,696.85mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-11(708.661mil,751.968mil) on Bottom Layer And Pad st1-12(708.661mil,779.528mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-12(708.661mil,779.528mil) on Bottom Layer And Pad st1-13(708.661mil,807.087mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-2(708.661mil,503.937mil) on Bottom Layer And Pad st1-3(708.661mil,531.496mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-3(708.661mil,531.496mil) on Bottom Layer And Pad st1-4(708.661mil,559.055mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-4(708.661mil,559.055mil) on Bottom Layer And Pad st1-5(708.661mil,586.614mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-5(708.661mil,586.614mil) on Bottom Layer And Pad st1-6(708.661mil,614.173mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-6(708.661mil,614.173mil) on Bottom Layer And Pad st1-7(708.661mil,641.732mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-7(708.661mil,641.732mil) on Bottom Layer And Pad st1-8(708.661mil,669.291mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad st1-8(708.661mil,669.291mil) on Bottom Layer And Pad st1-9(708.661mil,696.85mil) on Bottom Layer [Bottom Solder] Mask Sliver [3.811mil]
+Rule Violations :12
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:02

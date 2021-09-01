@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/Apps/esp32/esp_idf/components/bootloader/subproject",
+    "build_dir":          "D:/ZERO/Soft/Zero/build/bootloader",
+    "config_file":        "D:/ZERO/Soft/Zero/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.2-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/Apps/esp32/esp_idf/components/efuse/Kconfig;D:/Apps/esp32/esp_idf/components/esp32/Kconfig;D:/Apps/esp32/esp_idf/components/esp_common/Kconfig;D:/Apps/esp32/esp_idf/components/log/Kconfig;D:/Apps/esp32/esp_idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/Apps/esp32/esp_idf/components/bootloader/Kconfig.projbuild;D:/Apps/esp32/esp_idf/components/esptool_py/Kconfig.projbuild;D:/Apps/esp32/esp_idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/Apps/esp32/esp_idf/components/bootloader", "D:/Apps/esp32/esp_idf/components/bootloader_support", "D:/Apps/esp32/esp_idf/components/efuse", "D:/Apps/esp32/esp_idf/components/esp32", "D:/Apps/esp32/esp_idf/components/esp_common", "D:/Apps/esp32/esp_idf/components/esp_rom", "D:/Apps/esp32/esp_idf/components/esptool_py", "D:/Apps/esp32/esp_idf/components/log", "D:/Apps/esp32/esp_idf/components/bootloader/subproject/main", "D:/Apps/esp32/esp_idf/components/bootloader/subproject/components/micro-ecc", "D:/Apps/esp32/esp_idf/components/partition_table", "D:/Apps/esp32/esp_idf/components/soc", "D:/Apps/esp32/esp_idf/components/spi_flash", "D:/Apps/esp32/esp_idf/components/xtensa", "" ]
+}

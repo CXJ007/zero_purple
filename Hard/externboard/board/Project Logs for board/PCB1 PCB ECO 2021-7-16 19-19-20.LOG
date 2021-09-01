@@ -1,0 +1,4 @@
+Added Component: Designator=J1(2.54-2P)
+Added Pin To Net: NetName=BATT1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component J1 2.54_2P

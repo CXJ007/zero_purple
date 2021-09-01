@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=EN Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=NetC8_1 Pin=U7-1
+Removed Pin From Net: NetName=NetC8_2 Pin=U7-8
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=EN Pin=C7-2
+Added Pin To Net: NetName=NetC8_2 Pin=U7-1
+Added Pin To Net: NetName=NetC8_1 Pin=U7-8
+Added Member To Class: ClassName=Sheet1 Member=Component U1 TYPE-C

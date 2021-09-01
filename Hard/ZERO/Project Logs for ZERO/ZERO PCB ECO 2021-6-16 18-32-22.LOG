@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BATT Pin=SW1-2
+Removed Pin From Net: NetName=SYS Pin=SW1-3
+Added Pin To Net: NetName=SYS Pin=SW1-2
+Added Pin To Net: NetName=BATT Pin=SW1-3
+Added Member To Class: ClassName=ZERO Member=Component R11 10k
+Added Member To Class: ClassName=ZERO Member=Component R12 10k
+Added Member To Class: ClassName=ZERO Member=Component R17 10
+Added Member To Class: ClassName=ZERO Member=Component R18 1k

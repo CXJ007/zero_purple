@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=BATT Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=+3.3 Pin=R2-2
+Change Component Footprint: Designator=C5 Old Footprint=C+ New Footprint=C0805
+Change Component Comment : Designator=C5 Old Comment=10uf New Comment=1uf
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=BATT Pin=C5-2
+Added Pin To Net: NetName=SYS Pin=R2-2
+Added Room: Name=ZERO

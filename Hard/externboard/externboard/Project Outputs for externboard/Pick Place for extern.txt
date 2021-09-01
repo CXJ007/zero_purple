@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\15920\Desktop\ZERO\Hard\externboard\externboard\Project Outputs for externboard\Pick Place for extern.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/07/21
+Time:       18:57
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer       Footprint Center-X(mil) Center-Y(mil) Rotation Description 
+st1        st7735s       BottomLayer st7735s   708.661       641.732       180      ""          
+C1         1uf           BottomLayer C0805     1013.780      737.205       360      ""          
+U1         S8050_C908252 BottomLayer s8050     1013.782      421.260       360      ""          
+R3         1k            BottomLayer R0805     1013.779      541.339       360      ""          
+R2         10            BottomLayer R0805     1011.811      835.630       180      ""          
+R1         10k           BottomLayer R0805     1013.779      639.764       360      ""          
+J1         8P            TopLayer    8P-P2.54  57.087        588.583       270      ""          

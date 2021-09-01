@@ -1,0 +1,7 @@
+Change Physical Footprint: Designator=C1 Old Footprint=C0805 New Footprint=C0805
+Change Physical Footprint: Designator=J1 Old Footprint=8P-P2.54 New Footprint=8P-P2.54
+Change Physical Footprint: Designator=R1 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R2 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=R3 Old Footprint=R0805 New Footprint=R0805
+Change Physical Footprint: Designator=st1 Old Footprint=st7735s New Footprint=st7735s
+Change Physical Footprint: Designator=U1 Old Footprint=s8050 New Footprint=s8050
